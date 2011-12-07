@@ -7,7 +7,7 @@
  *   An array of modules to enable.
  */
 function kickstartercloneprofile_profile_modules() {
-  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog', 'kickstarterclone');
+  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog', 'admin_menu', 'ctools', 'pay', 'donate', 'authorizenet', 'pay_progress', 'kickstarterclone');
 }
 
  /**
